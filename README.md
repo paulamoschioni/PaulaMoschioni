@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Paula%20Moshioni&fontSize=50&fontColor=fff&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Paula%20Moschioni&fontSize=50&fontColor=fff&animation=twinkling"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4169E1&center=true&vCenter=true&width=940&lines=Hey!+I'm+Paula+Moschioni+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%9A%80;Looking+for+internship+opportunities+%F0%9F%94%8D" alt="Typing SVG" />
