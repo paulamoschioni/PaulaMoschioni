@@ -37,12 +37,6 @@ education: 1º período de Ciência da Computação - PUC-MG
 - 🧮 Algorithms
 - 🎨 UI/UX Design
 
-### 🎯 Objetivos
-
-- 📚 Estudando: JavaScript, React, C++, Java, C, Python, C#
-- 🚀 Próximos passos: TypeScript, Node.js
-- 💼 **Procurando estágio para crescer profissionalmente**
-
 </td>
 </tr>
 </table>
@@ -51,9 +45,9 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 <div align="center">
   
-### 🔎 Aberto a oportunidades de estágio onde possa aprender e evoluir!
+### 🔎 Aberta a oportunidades de estágio para aprender e evoluir!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrmme2019@gmail.com)
+[![Email]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusgomes0104/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomesmatheusjj_/)
 
