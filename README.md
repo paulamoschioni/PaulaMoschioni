@@ -119,9 +119,9 @@ education: 1º período de Ciência da Computação - PUC-MG
   
 ### 🎯 Visitor Count & Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=MatheusMeirellesGomes&color=4169e1&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/MatheusMeirellesGomes?style=for-the-badge&color=4169e1&labelColor=0d1117)](https://github.com/MatheusMeirellesGomes?tab=followers)
-![GitHub User's stars](https://img.shields.io/github/stars/MatheusMeirellesGomes?style=for-the-badge&color=4169e1&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=paulamoschioni&color=4169e1&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/paulamoschioni?style=for-the-badge&color=4169e1&labelColor=0d1117)](https://github.com/paulamoschioni?tab=followers)
+![GitHub User's stars](https://img.shields.io/github/stars/paulamoschioni?style=for-the-badge&color=4169e1&labelColor=0d1117)
 
 </div>
 
@@ -135,9 +135,9 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 **Open to collaborations, internship opportunities, and interesting projects!**
 
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusrmme2019@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomesmatheusjj/)
-[![Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomesmatheusjj/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulamoschioni2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-moschioni-9b54513b7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paula.moschioni/)
 
 </div>
 
@@ -145,7 +145,7 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 <div align="center">
   
-**⭐ From [MatheusMeirellesGomes](https://github.com/MatheusMeirellesGomes) | Made with ❤️ and lots of ☕**
+
 
 </div>
 
