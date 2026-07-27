@@ -56,62 +56,6 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paulamoschioni&bg_color=0d1117&color=4169e1&line=4169e1&point=ffffff&area=true&area_color=4169e1&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
-</div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMeirellesGomes/MatheusMeirellesGomes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusMeirellesGomes/MatheusMeirellesGomes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusMeirellesGomes/MatheusMeirellesGomes/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/MatheusMeirellesGomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMeirellesGomes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=c9d1d9&bg_color=0d1117&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMeirellesGomes&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/MatheusMeirellesGomes">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusMeirellesGomes&theme=transparent&hide_border=true&background=0d1117&stroke=4169e1&ring=4169e1&fire=4169e1&currStreakLabel=4169e1&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusMeirellesGomes&theme=transparent&utcOffset=-3"/>
-  </a>
-</div>
-
-<br>
-
-<details>
-  <summary><b>📈 Estatísticas Detalhadas</b></summary>
-  <br>
-  
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusMeirellesGomes&theme=transparent" />
-  </div>
-  
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusMeirellesGomes&theme=transparent" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusMeirellesGomes&theme=transparent" />
-  </div>
-  
-</details>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusMeirellesGomes&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<br>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -123,7 +67,7 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 ### 🎨 Frontend Development
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,jquery,figma&theme=dark)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Backend Development
 
