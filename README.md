@@ -63,7 +63,7 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 ### 💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,typescript,python,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Frontend Development
 
@@ -75,7 +75,7 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 ### 🔧 Tools & Technologies
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,npm,webpack&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows&theme=dark)](https://skillicons.dev)
 
 </div>
 
