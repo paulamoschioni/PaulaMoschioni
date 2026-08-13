@@ -118,6 +118,18 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 ---
 
+## 👾 Space Shooter
+
+<div align="center">
+
+![Space Shooter Game](gh-space-shooter.gif)
+
+</div>
+
+<br>
+
+---
+
 
 ### 🎯 Visitor Count & Stats
 
