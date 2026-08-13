@@ -76,7 +76,7 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 ### 🔧 Tools & Technologies
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows,vim&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows,codeblocks,vim&theme=dark)](https://skillicons.dev)
 
 </div>
 
