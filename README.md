@@ -118,22 +118,7 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 ---
 
-## 👾 Space Invaders
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulamoschioni/PaulaMoschioni/output/commit-invaders-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulamoschioni/PaulaMoschioni/output/commit-invaders.svg">
-  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/paulamoschioni/PaulaMoschioni/output/commit-invaders.svg" width="100%">
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-  
 ### 🎯 Visitor Count & Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paulamoschioni&color=4169e1&style=for-the-badge&label=PROFILE+VIEWS)
