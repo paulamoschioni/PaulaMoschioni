@@ -111,12 +111,6 @@ education: 1º período de Ciência da Computação - PUC-MG
 
 ## 📈 Atividade Recente
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br>
-
----
 
 ## 👾 Space Shooter
 
