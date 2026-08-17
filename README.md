@@ -18,7 +18,7 @@
 name: Paula Moschioni 
 located_in: Minas Gerais, Brasil
 current_job: Estudante
-education: 1º período de Ciência da Computação - PUC-MG
+education: 2º período de Ciência da Computação - PUC-MG
 ```
 
 ### 🌍 Idiomas
