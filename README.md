@@ -84,6 +84,19 @@ education: 2º período de Ciência da Computação - PUC-MG
 
 ---
 
+## 👾 Space Shooter
+
+<div align="center">
+
+![Space Shooter Game](gh-space-shooter.gif)
+
+</div>
+
+<br>
+
+---
+
+
 ## 🚀 Projetos em Destaque
 
 
@@ -109,17 +122,6 @@ education: 2º período de Ciência da Computação - PUC-MG
 ## 📈 Atividade Recente
 
 
-## 👾 Space Shooter
-
-<div align="center">
-
-![Space Shooter Game](gh-space-shooter.gif)
-
-</div>
-
-<br>
-
----
 
 
 ### 🎯 Visitor Count & Stats
