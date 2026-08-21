@@ -86,10 +86,7 @@ education: 2º período de Ciência da Computação - PUC-MG
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
 
-[![AEDS-1](https://github-readme-stats.vercel.app/api/pin/?username=MatheusMeirellesGomes&repo=AEDS-1&theme=transparent&hide_border=true&bg_color=0d1117&title_color=4169e1&icon_color=4169e1&text_color=c9d1d9)](https://github.com/MatheusMeirellesGomes/AEDS-1)
-[![PRESENTEISA](https://github-readme-stats.vercel.app/api/pin/?username=MatheusMeirellesGomes&repo=PRESENTEISA&theme=transparent&hide_border=true&bg_color=0d1117&title_color=4169e1&icon_color=4169e1&text_color=c9d1d9)](https://github.com/MatheusMeirellesGomes/PRESENTEISA)
 
 </div>
 
