@@ -72,7 +72,7 @@ education: 2º período de Ciência da Computação - PUC-MG
 
 ### ⚙️ Backend Development
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,java&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases
 
